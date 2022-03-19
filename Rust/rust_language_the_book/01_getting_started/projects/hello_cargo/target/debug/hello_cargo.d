@@ -1,1 +1,0 @@
-/Users/bilal/Learning/rust/my_rust_roadmap/Rust/rust_language_the_book/01_getting_started/projects/hello_cargo/target/debug/hello_cargo: /Users/bilal/Learning/rust/my_rust_roadmap/Rust/rust_language_the_book/01_getting_started/projects/hello_cargo/src/main.rs
